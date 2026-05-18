@@ -773,6 +773,14 @@ This project was generated as a demonstration/template application. Specify your
 - UI components from [shadcn/ui](https://ui.shadcn.com/)
 - Backend powered by [Supabase](https://supabase.com/)
 
+Images-----
+<img width="1918" height="911" alt="image" src="https://github.com/user-attachments/assets/f7c0f81a-eacd-4214-98b3-47bea8e66f28" />
+<img width="1918" height="838" alt="image" src="https://github.com/user-attachments/assets/13f7b719-be35-44b1-a53b-9364da2f2f91" />
+<img width="1918" height="835" alt="image" src="https://github.com/user-attachments/assets/6088e293-5e87-4487-a701-d40522de5d96" />
+<img width="1611" height="828" alt="image" src="https://github.com/user-attachments/assets/738e3052-a3f1-406d-908a-75014d4f8d04" />
+<img width="1625" height="893" alt="image" src="https://github.com/user-attachments/assets/6b3cc62f-53e3-4d1e-8c41-aae0efe76b41" />
+<img width="1918" height="688" alt="image" src="https://github.com/user-attachments/assets/b00834af-a666-40bb-80a1-94f467de35fa" />
+
 
 
 What you need — Node.js, npm, browser, Supabase (no local PostgreSQL).
